@@ -3,7 +3,7 @@
 <img width="651" alt="2024-09-16 (1)" src="https://github.com/user-attachments/assets/53f87fe3-9e06-4232-a495-eaa248a91440">
 
 
-As  my 4th and final task for the Virtual Internship on Power BI from PwC, I have design a dashboard focused on Customer Retention.
+As my 3rd task for the Virtual Internship on Power BI from PwC, I have design a dashboard focused on Customer Retention.
 As a Data Analyst, my role was to Define proper KPIs, Create a dashboard for the retention manager reflecting the KPIs, 
 Write a short email to him (the engagement partner) explaining my findings, and include suggestions as to what needs to be changed
 
