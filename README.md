@@ -137,7 +137,7 @@ The measures listed below were created to track our progress towards our goals
 
  ## Insights
 
-* <img width="659" alt="Customer Retention png 3" src="https://github.com/user-attachments/assets/9b4f362e-ed41-4bc1-a609-31109853ddce">
+ <img width="659" alt="Customer Retention png 3" src="https://github.com/user-attachments/assets/9b4f362e-ed41-4bc1-a609-31109853ddce">
 
 #
 
