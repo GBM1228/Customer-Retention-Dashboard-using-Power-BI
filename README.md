@@ -8,6 +8,8 @@ As my 3rd task for the Virtual Internship on Power BI from PwC, I have design a 
 As a Data Analyst, my role was to Define proper KPIs, Create a dashboard for the retention manager reflecting the KPIs, 
 Write a short email to him (the engagement partner) explaining my findings, and include suggestions as to what needs to be changed
 
+#
+
 ## Table Of Contents
 
 [Problem Statement](#ProblemStatement)
@@ -24,6 +26,8 @@ Write a short email to him (the engagement partner) explaining my findings, and 
 
 [Recommendation](#Recommendation)
 
+#
+
 ## Problem Statement
 
 The purpose of this analysis is to:
@@ -32,12 +36,15 @@ The purpose of this analysis is to:
 2. Create a dashboard for the retention manager reflecting the KPIs
 3. Write a short email to him (the engagement partner) explaining my findings, and include suggestions as to what needs to be changed
 
+#
+
 ## Data Sourcing
 
 The Dataset used for this analysis was given by [Pwc switzerland](https://www.pwc.ch/en/careers-with-pwc/students/virtual-case-experience.html)
 
-
 [Dataset](https://github.com/user-attachments/files/17015869/02.Churn-Dataset.xlsx)
+
+#
 
 ## Data Preparation
 
@@ -83,6 +90,8 @@ The following steps were taking for the data cleaning and transformation  :
 
 * Renaming Column name for clarity
 
+  #
+
 ## Data Visualization
 
 Three phases was created for the Churn dataset, page1 for the Visualization, page2 & 3  for the insight and reconmendation based on the analysed churn dataset. 
@@ -106,6 +115,8 @@ Leading to a detailed and engaging visual representation:
 
 <img width="651" alt="2024-09-16 (1)" src="https://github.com/user-attachments/assets/9a8bb4e8-8eea-4487-a9ec-9c8965a92bc9">
 
+#
+
 ## Data Analysis
 
 The measures listed below were created to track our progress towards our goals
@@ -122,9 +133,13 @@ The measures listed below were created to track our progress towards our goals
 * Last Month Churn = COUNTROWS(FILTER('01 Churn-Dataset', '01 Churn-Dataset'[Churn] = "Yes" && '01 Churn-Dataset'[Tenure] =1))
 * Churn Rate = DIVIDE([Total Churn],[Total Customer])+0
 
-* ## Insights
+  #
+
+ ## Insights
 
 * <img width="659" alt="Customer Retention png 3" src="https://github.com/user-attachments/assets/9b4f362e-ed41-4bc1-a609-31109853ddce">
+
+#
 
 ## Recommendation
 
