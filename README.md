@@ -4,9 +4,9 @@
 
 ## About This Project
 
-As my 3rd task for the Virtual Internship on Power BI from PwC, I have design a dashboard focused on Customer Retention.
+As my 3rd task for the Virtual Internship on Power BI from PwC, I designed a dashboard focused on Customer Retention.
 As a Data Analyst, my role was to Define proper KPIs, Create a dashboard for the retention manager reflecting the KPIs, 
-Write a short email to him (the engagement partner) explaining my findings, and include suggestions as to what needs to be changed
+Write a short email to the engagement partner explaining my findings, and include suggestions as to what needs to be changed
 
 #
 
@@ -30,12 +30,7 @@ Write a short email to him (the engagement partner) explaining my findings, and 
 
 ## Problem Statement
 
-The purpose of this analysis is to:
-
-1. Define proper KPIs
-2. Create a dashboard for the retention manager reflecting the KPIs
-3. Write a short email to him (the engagement partner) explaining my findings, and include suggestions as to what needs to be changed
-
+The purpose of this analysis is to check churn and Retention rate
 #
 
 ## Data Sourcing
